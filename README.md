@@ -13,7 +13,7 @@
 
 
 
-### Tokes
+### Tokens and Auth Response
 
 {
   "email": "2203030150411@paruluniversity.ac.in",
